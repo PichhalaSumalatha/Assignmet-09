@@ -1,0 +1,8 @@
+D:\MYSQL\Phase-2\Day-9\Assignment-09\ADO.NET_StoredProcedure\ADO.NET_StoredProcedure\bin\Debug\ADO.NET_StoredProcedure.exe.config
+D:\MYSQL\Phase-2\Day-9\Assignment-09\ADO.NET_StoredProcedure\ADO.NET_StoredProcedure\bin\Debug\ADO.NET_StoredProcedure.exe
+D:\MYSQL\Phase-2\Day-9\Assignment-09\ADO.NET_StoredProcedure\ADO.NET_StoredProcedure\bin\Debug\ADO.NET_StoredProcedure.pdb
+D:\MYSQL\Phase-2\Day-9\Assignment-09\ADO.NET_StoredProcedure\ADO.NET_StoredProcedure\obj\Debug\ADO.NET_StoredProcedure.csproj.AssemblyReference.cache
+D:\MYSQL\Phase-2\Day-9\Assignment-09\ADO.NET_StoredProcedure\ADO.NET_StoredProcedure\obj\Debug\ADO.NET_StoredProcedure.csproj.SuggestedBindingRedirects.cache
+D:\MYSQL\Phase-2\Day-9\Assignment-09\ADO.NET_StoredProcedure\ADO.NET_StoredProcedure\obj\Debug\ADO.NET_StoredProcedure.csproj.CoreCompileInputs.cache
+D:\MYSQL\Phase-2\Day-9\Assignment-09\ADO.NET_StoredProcedure\ADO.NET_StoredProcedure\obj\Debug\ADO.NET_StoredProcedure.exe
+D:\MYSQL\Phase-2\Day-9\Assignment-09\ADO.NET_StoredProcedure\ADO.NET_StoredProcedure\obj\Debug\ADO.NET_StoredProcedure.pdb
